@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1680579913 source:c:\users\m\documents\vsdev-project\firstdatabase\test\main.c
+	"mysql.h"
+	<conio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdlib.h>
+	<direct.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	"main.h"
+
+1680397629 c:\users\m\documents\vsdev-project\firstdatabase\test\main.h
+	<stdarg.h>
+	"redefs.h"
+
+1680316567 c:\users\m\documents\vsdev-project\firstdatabase\test\redefs.h
+
+1680316527 source:c:\users\m\documents\vsdev-project\firstdatabase\test\emax-statistic.c
+	"main.h"
+
+1680397427 source:c:\users\m\documents\vsdev-project\firstdatabase\test\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	<stdarg.h>
+	"utils.h"
+
+1680316465 c:\users\m\documents\vsdev-project\firstdatabase\test\utils.h
+	<sys/time.h>
+	<sys/time.h>
+
+1680648856 source:c:\users\m\documents\vsdev-project\firstdatabase\test\consumer.c
+	"consumer.h"
+
+1680316433 c:\users\m\documents\vsdev-project\firstdatabase\test\consumer.h
+	"redefs.h"
+
+1680362586 source:c:\users\m\documents\vsdev-project\firstdatabase\test\log.c
+	<stdio.h>
+	<io.h>
+	"main.h"
+	"utils.h"
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1480354658 c:\program files\mysql\mysql server 5.7\include\mysql_version.h
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\binary_log_types.h
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\my_command.h
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql_time.h
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\my_list.h
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\typelib.h
+	"my_alloc.h"
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1480343572 c:\program files\mysql\mysql server 5.7\include\mysql\psi\psi_base.h
+
