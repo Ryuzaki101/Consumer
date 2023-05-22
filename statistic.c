@@ -1,7 +1,7 @@
 //K
 //! @brief
 //!
-//! @file emax-statistic.c
+//! @file statistic.c
 //
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Modul Name......: emax-statistic.c
